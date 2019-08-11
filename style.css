@@ -1,7 +1,7 @@
 body {
     padding: 0;
     font-family: "Arial", sans-serif;
-    font-size: 30px;
+    font-size: 25px;
     line-height: px;
     color: #000000;
     height: 0%;
@@ -71,7 +71,7 @@ body {
   }
   
   .feature-kitten {
-    padding-top: 60px;
+    padding-top: 75px;
     background-image: url(pics/4.png);
   }
   
